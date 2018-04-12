@@ -1,0 +1,10 @@
+2018-04-12 17:50:59 INFO  --------------------------------RECENT TWEETS-------------------------------- 
+2018-04-12 17:51:03 INFO  Thu Apr 12 21:36:37 +0000 2018: I miss sleep!!!!!!!!!!!! https://t.co/tm0LLYI1LW 
+2018-04-12 17:51:03 INFO  Thu Apr 12 21:34:36 +0000 2018: Can't believe I finally gave in and created a Twitter account https://t.co/SyLB3UFCD3 
+2018-04-12 17:51:03 INFO  Thu Apr 12 21:30:39 +0000 2018: Working on homework!!!! 
+2018-04-12 17:52:30 INFO  --------------------------------SPOTIFY SONG-------------------------------- 
+2018-04-12 17:52:32 INFO  Artist(s): Stu Larsen 
+2018-04-12 17:52:32 INFO  Track: Music Is My Mistress 
+2018-04-12 17:52:32 INFO  Album: The Black Tree 
+2018-04-12 17:52:32 INFO  Preview: https://p.scdn.co/mp3-preview/13dfbc7eacb0b3bf53e50bb31f8efe7884c3075d?cid=043c65fe00a2462e8d569d5383b7ab4f 
+2018-04-12 17:54:00 INFO  --------------------------------MOVIE INFO-------------------------------- 

@@ -25,6 +25,7 @@
     "inquirer": "^5.2.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.85.0",
+    "simple-node-logger": "^0.93.37",
     "twitter": "^1.7.1"
   }
 }
